@@ -1,5 +1,7 @@
 # Practise project
 
+Learning GIT and Python Foundation
+
 ## Git commands :
 
 ```
@@ -17,4 +19,17 @@ git remote add origin https://github_address
 git push origin master
 git pull origin master
 
+git commit --amend -m "Feat/Fix"
+
 ```
+
+## Python Foundation :
+
+- Primitive Variables
+- Functions
+- Objects
+- Classes
+- Class deep dive
+- Operations & Conditions
+- Loops
+- . . .
