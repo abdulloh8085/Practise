@@ -51,3 +51,16 @@ print("result3:", result3)
 # Default argument
 result4 = give_greet("John",)
 print("result4:", result4)
+
+print("=====  SCOPE =====")
+b = 100
+
+# Define
+
+
+def calculate(a):
+    c = a * b
+    print(f"The c value: {c}")
+
+    # Call
+    calculate(5)
