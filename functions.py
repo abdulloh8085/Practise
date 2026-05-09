@@ -62,5 +62,5 @@ def calculate(a):
     c = a * b
     print(f"The c value: {c}")
 
-    # Call
-    calculate(5)
+ # Call
+calculate(5)
