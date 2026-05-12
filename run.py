@@ -1,4 +1,4 @@
-# Dunder __biiltins__, __init__
+# Dunder __builtins__, __init__
 
 message = ("Python: Everything is object!")
 print(message)
