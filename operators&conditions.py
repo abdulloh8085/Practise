@@ -6,6 +6,8 @@
 
 print("======= Operators ========")
 
+# Bunda ishlatiladigan belgilarimiz " + - < > >= <=  == is * /   // % += ** "
+
 a = 26
 b = 5
 
