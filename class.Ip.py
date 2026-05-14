@@ -31,10 +31,10 @@ class giraffe(Animal):
         print(f"{self.name} says: {self.sound}-{self.sound}")
 
     def protect(self):
-        print("Yes, I can protect you!")
+        print("I'm tallest animal in the world!")
 
     def make_voice(self):
-        print(f"Dog can make voice: {self.voice}")
+        print(f"giraffe can make voice: {self.voice}")
 
 
 class Cat(Animal):
