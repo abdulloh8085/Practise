@@ -29,7 +29,13 @@ git commit --amend -m "Feat/Fix"
 - Functions
 - Objects
 - Classes
-- Class deep dive
+- Class deep dive > Encapsulation
+- Class deep dive > Inherit / Polymorphism
 - Operations & Conditions
 - Loops
+- Tuples
+- List
+- Array
+- Comprehens
+- Debugging
 - . . .
